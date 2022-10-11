@@ -1,3 +1,3 @@
 from .factory import Factory
-from .singletone import Singleton
+from .singleton import Singleton
 from .dummy import Dummy
