@@ -41,7 +41,7 @@ Container usage example
 ```python
 
 # with function
-def some_frequently_referenced_function_with_dependencies(required_arg, *, required_kwarg, dependency = App.some):
+def some_frequently_referenced_func(required_arg, *, required_kwarg, dependency = App.some):
     # intellisense for "dependency" will work here.
     ...
 
