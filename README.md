@@ -1,4 +1,4 @@
-##### Simple dependency injection
+# Simple dependency injection
 It keeps intellisense and doesn't needs any wirings/decorators
 
 
